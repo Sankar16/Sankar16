@@ -2,7 +2,7 @@
 
 🎓 **Master of Computer Science** | North Carolina State University (Aug 2024 – May 2026)  
 🧠 **AI/ML Enthusiast** 
-💡 Passionate about **Machine Learning, Data Science & Big Data
+💡 Passionate about **Machine Learning, Data Science & Big Data**
 📊 Love transforming **raw data into actionable insights**  
 
 
