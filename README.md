@@ -61,6 +61,8 @@
 ---
 
 ## 📫 Connect With Me  
-📧 sankarrag@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/sankar-raghuthaman)  
-🐙 [GitHub](https://github.com/Sankar16)  
+<p align="left">
+  <a href="mailto:sankarrag@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Email"/></a>  
+  <a href="https://linkedin.com/in/sankar-raghuthaman" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/></a>  
+  <a href="https://github.com/Sankar16" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/></a>  
+</p>
